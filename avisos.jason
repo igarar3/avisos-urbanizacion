@@ -6,7 +6,7 @@
       "id": "corte-agua-julio",
       "icono": "exclamationmark.triangle.fill",
       "titulo": "Corte de agua",
-      "mensaje": "Mañana 10:00 - 12:00",
+      "mensaje": "Mañana 10:00",
       "color": "orange",
       "tipo": "mantenimiento",
       "prioridad": "alta",
@@ -30,7 +30,7 @@
       "id": "reunion-propietarios",
       "icono": "calendar",
       "titulo": "Reunión",
-      "mensaje": "Viernes 19:00 - Salón Social",
+      "mensaje": "Viernes 19:00",
       "color": "blue",
       "tipo": "evento",
       "prioridad": "media",
@@ -48,21 +48,8 @@
       "prioridad": "baja",
       "fecha_inicio": "2025-07-05T00:00:00Z",
       "fecha_fin": "2025-07-30T23:59:59Z",
-      "activo": true,
-      "tags": ["mantenimiento", "toldo", "escenario"]
-    },
-    {
-      "id": "piscina-verano",
-      "icono": "figure.pool.swim",
-      "titulo": "Piscina Abierta",
-      "mensaje": "Horario verano: 10:00 - 22:00",
-      "color": "blue",
-      "tipo": "piscina",
-      "prioridad": "media",
-      "fecha_inicio": "2025-07-01T00:00:00Z",
-      "fecha_fin": "2025-09-30T23:59:59Z",
       "activo": true
-    }
+    },
   ],
   "configuracion": {
     "tipos_avisos": {
