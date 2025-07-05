@@ -10,8 +10,8 @@
       "color": "orange",
       "tipo": "mantenimiento",
       "prioridad": "alta",
-      "fecha_inicio": "2025-07-06T10:00:00Z",
-      "fecha_fin": "2025-07-06T12:00:00Z",
+      "fecha_inicio": "2025-07-05T00:00:00Z",
+      "fecha_fin": "2025-07-10T23:59:59Z",
       "activo": true,
       "tags": ["agua", "mantenimiento"]
     },
@@ -23,8 +23,8 @@
       "color": "brown",
       "tipo": "servicio",
       "prioridad": "media",
-      "fecha_inicio": "2025-07-09T08:00:00Z",
-      "fecha_fin": "2025-07-09T12:00:00Z",
+      "fecha_inicio": "2025-07-05T00:00:00Z",
+      "fecha_fin": "2025-07-15T23:59:59Z",
       "activo": true,
       "tags": ["trastos", "recogida"]
     },
@@ -36,8 +36,8 @@
       "color": "blue",
       "tipo": "evento",
       "prioridad": "media",
-      "fecha_inicio": "2025-07-11T19:00:00Z",
-      "fecha_fin": "2025-07-11T21:00:00Z",
+      "fecha_inicio": "2025-07-05T00:00:00Z",
+      "fecha_fin": "2025-07-20T23:59:59Z",
       "activo": true,
       "tags": ["reunion", "propietarios"]
     },
@@ -49,8 +49,8 @@
       "color": "green",
       "tipo": "mantenimiento",
       "prioridad": "baja",
-      "fecha_inicio": "2025-07-08T09:00:00Z",
-      "fecha_fin": "2025-07-08T17:00:00Z",
+      "fecha_inicio": "2025-07-05T00:00:00Z",
+      "fecha_fin": "2025-07-30T23:59:59Z",
       "activo": true,
       "tags": ["mantenimiento", "toldo", "escenario"]
     },
@@ -62,8 +62,8 @@
       "color": "blue",
       "tipo": "piscina",
       "prioridad": "media",
-      "fecha_inicio": "2025-07-05T10:00:00Z",
-      "fecha_fin": "2025-09-30T22:00:00Z",
+      "fecha_inicio": "2025-07-01T00:00:00Z",
+      "fecha_fin": "2025-09-30T23:59:59Z",
       "activo": true,
       "tags": ["piscina", "verano", "horario"]
     }
