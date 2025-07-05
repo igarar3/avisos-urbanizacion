@@ -21,7 +21,7 @@
       "mensaje": "Miércoles 11:00",
       "color": "brown",
       "tipo": "servicio",
-      "prioridad": "media",
+      "prioridad": "alta",
       "fecha_inicio": "2025-07-05T00:00:00Z",
       "fecha_fin": "2025-07-15T23:59:59Z",
       "activo": true
