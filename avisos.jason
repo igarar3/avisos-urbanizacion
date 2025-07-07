@@ -6,12 +6,12 @@
       "id": "corte-agua-julio",
       "icono": "exclamationmark.triangle.fill",
       "titulo": "Corte de agua",
-      "mensaje": "Mañana 10:00",
+      "mensaje": "Lunes 10:00",
       "color": "orange",
       "tipo": "mantenimiento",
       "prioridad": "alta",
       "fecha_inicio": "2025-07-05T00:00:00Z",
-      "fecha_fin": "2025-07-10T23:59:59Z",
+      "fecha_fin": "2025-07-07T23:59:59Z",
       "activo": true
     },
     {
@@ -23,7 +23,7 @@
       "tipo": "servicio",
       "prioridad": "media",
       "fecha_inicio": "2025-07-05T00:00:00Z",
-      "fecha_fin": "2025-07-15T23:59:59Z",
+      "fecha_fin": "2025-07-09T23:59:59Z",
       "activo": true
     },
     {
@@ -42,7 +42,7 @@
       "id": "mantenimiento-toldo",
       "icono": "wrench.fill",
       "titulo": "Mantenimiento",
-      "mensaje": "Toldo Escenario - Todo el día",
+      "mensaje": "Toldo Escenario",
       "color": "green",
       "tipo": "mantenimiento",
       "prioridad": "baja",
