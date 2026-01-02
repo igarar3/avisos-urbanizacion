@@ -15,15 +15,15 @@
       "activo": true
     },
     {
-      "id": "recogida-trastos-julio",
+      "id": "recogida-trastos",
       "icono": "sofa.fill",
       "titulo": "Recogida trastos",
       "mensaje": "Miércoles 11:00",
       "color": "brown",
       "tipo": "servicio",
       "prioridad": "media",
-      "fecha_inicio": "2025-10-04T00:00:00+02:00",
-      "fecha_fin": "2025-10-07T23:59:59+02:00",
+      "fecha_inicio": "2026-01-02T00:00:00+02:00",
+      "fecha_fin": "2026-01-07T23:59:59+02:00",
       "activo": true
     },
     {
