@@ -3,15 +3,15 @@
   "ultima_actualizacion": "2025-07-05T15:30:00Z",
   "avisos": [
     {
-      "id": "corte-agua-julio",
+      "id": "corte-agua",
       "icono": "exclamationmark.triangle.fill",
       "titulo": "Corte de agua",
       "mensaje": "Lunes 10:00",
       "color": "orange",
       "tipo": "mantenimiento",
       "prioridad": "alta",
-      "fecha_inicio": "2025-10-4T00:00:00+02:00",
-      "fecha_fin": "2025-10-7T23:59:59+02:00",
+      "fecha_inicio": "2026-01-2T00:00:00+02:00",
+      "fecha_fin": "2026-01-7T23:59:59+02:00",
       "activo": true
     },
     {
