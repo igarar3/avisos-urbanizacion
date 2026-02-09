@@ -18,7 +18,7 @@
       "id": "recogida-trastos",
       "icono": "sofa.fill",
       "titulo": "Recogida trastos",
-      "mensaje": "Miércoles 11:00 , los trastos se deben de dejar al lado del contenedor correspondiente",
+      "mensaje": "Miércoles 11:00: \n los trastos se deben de dejar al lado del contenedor correspondiente",
       "color": "brown",
       "tipo": "servicio",
       "prioridad": "media",
